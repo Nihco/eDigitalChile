@@ -1,6 +1,72 @@
+html{
+    height: 100%;
+    scroll-behavior: smooth;
+}
 body{
-   
+    background: linear-gradient(rgba(5, 5, 5, 0.733),rgba(27, 27, 27, 0.712)),url(../public/img/20150326_231939.jpg);
+    background-size: cover;
+    height: 100%;
+}
+input[type=checkbox]{
+    width: 100%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    border: none;
+    background: #f1f1f1;
+}
+h1{
+    text-shadow: 4px 4px 2px rgba(0, 0, 0, 0.7);
+    font-size: 50px;
+}
+#e{
+    color:royalblue;
+    font-family: sans-serif;
+    text-shadow: 1px 1px 1px black;
+    height: 50px;
+    top: 30%;
+    left: 46%;
+    margin-left: -50px;
+    margin-top: -25px;
+    position: absolute;
+}
+#guion{
+    color: royalblue;
+    font-family: sans-serif;
+    text-shadow: 1px 1px 1px black;
+    height: 50px;
+    top: 30%;
+    left: 49%;
+    margin-left: -50px;
+    margin-top: -25px;
+    position: absolute;
+}
+
+#Chile{
+    color: antiquewhite;
+    font-family: sans-serif;
+    text-shadow: 1px 1px 1px black;
+    height: 50px;
+    top: 30%;
+    left: 51%;
+    margin-left: -50px;
+    margin-top: -25px;
+    position: absolute;
+}
+#Digital{
+    color:brown;
+    font-family: sans-serif;
+    text-shadow: 1px 1px 1px black;
+    height: 50px;
+    top: 30%;
+    left: 60%;
+    margin-left: -50px;
+    margin-top: -25px;
+    position: absolute;
 }
 #fondo{
-    opacity: 0.6;
+   text-align: center;
+   background-position: center center;
+   background-size: cover;
+   background-repeat: no-repeat;
+   position: absolute;
 }
