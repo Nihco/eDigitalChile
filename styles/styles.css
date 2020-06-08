@@ -1,5 +1,5 @@
 header{
-background:linear-gradient(rgba(5, 5, 5, 0.733),rgba(27, 27, 27, 0.712)),url('/assets/img/header.jpg');
+background:linear-gradient(rgba(5, 5, 5, 0.733),rgba(27, 27, 27, 0.712)),url("../public/img/header.jpg");
 background-size: cover;
 }
 .openbtn{
